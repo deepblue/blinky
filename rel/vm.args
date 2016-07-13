@@ -1,0 +1,6 @@
+## Start the Elixir shell
+-setcookie blinky
+
+-noshell
+-user Elixir.IEx.CLI
+-extra --no-halt
